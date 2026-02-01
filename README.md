@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/dd3a6399-8903-4e76-9875-0455196c7379)
 ![image](https://github.com/user-attachments/assets/f24c961c-3bb5-47de-af9e-47ebcc89e776)
+<img width="240" height="426" alt="image" src="https://github.com/user-attachments/assets/919b2dd4-73ab-4964-bb82-ac230747caff" />
+
 ```html
 <form id="aform">
     <combo-input name="comboinput" data-placeholder="Type or select" data-options=":'',value:text,valuetext"></combo-input>
